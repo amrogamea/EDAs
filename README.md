@@ -37,14 +37,10 @@ Feature Correlation:
 Correlation matrices and pairplots were used to identify relationships between numerical features.
 Visualizations
 
-## Here are some key visualizations from the EDA:
 
-Distribution of Features:
-Correlation Heatmap:
-Scatter Plot:
-Tools and Libraries Used
+## Tools and Libraries Used
 
-## The following tools and Python libraries were used for the analysis:
+The following tools and Python libraries were used for the analysis:
 
 Pandas for data manipulation.
 NumPy for numerical computations.
